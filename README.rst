@@ -9,13 +9,13 @@ SCAbox IPs
     :target: https://emse-sas.github.io/sca-ip/
     :alt: pages
 
-`Website <https://emse-sas-lab.github.io/sca-ip/>`_
+`Website <https://emse-sas-lab.github.io/SCAbox/>`_
 
 Overview
 ===============================================================
 
 This repository contains FPGA IP cores built for the
-`SCAbox <https://emse-sas-lab.github.io/sca_framework/>`_ project
+`SCAbox <https://emse-sas-lab.github.io/SCAbox/>`_ project
 
 - Targets : cryptographic accelerators
 - Sensors : voltage sensors
@@ -59,7 +59,7 @@ To install the repository you must first clone the sources from GitHub
 
 .. code-block:: shell
 
-    $ git clone https://github.com/emse-sas-lab/SCAbox-ip
+    $ git clone  https://github.com/emse-sas-lab/SCAbox-ip
     
 Then, launch Vivado and add each IP you need into your IP repositories.
 
@@ -79,7 +79,7 @@ Use the customization GUI to change the parameters of each IP.
 Documentation
 ===============================================================
 
-The complete documentation of the IP repo is available `here <https://emse-sas-lab.github.io/sca-ip/>`_.
+The complete documentation of the IP repo is available `here < https://github.com/emse-sas-lab/SCAbox-ip>`_.
 The project contains both hardware and software parts, 
 therefore this documentation is split into two different websites.
 
@@ -109,13 +109,13 @@ To do so, input the following commands from the root of the project :
 More
 ===============================================================
 
-SCAbox is a project on the topic of side-channel analysis.
+SCABox is a project on the topic of side-channel analysis.
 The goal of SCAbox is to provide an efficient test-bench for FPGA-based side-channel analysis.
 
-To know more about SCAbox please visit our `website <https://emse-sas-lab.github.io/SCAbox/>`_.
+To know more about SCABox please visit our `website <https://emse-sas-lab.github.io/SCAbox/>`_.
 It provides a tutorials and a wiki about side-channel analysis.
 
-SCAbox is an open-source project, all the sources are hosted on GitHub
+SCABox is an open-source project, all the sources are hosted on GitHub
 
 - `IP repository <https://github.com/emse-sas-lab/SCAbox-ip/>`_
 - `Acquisition demo <https://github.com/emse-sas-lab/SCAbox-demo/>`_
@@ -125,7 +125,7 @@ SCAbox is an open-source project, all the sources are hosted on GitHub
 Contributing
 ---------------------------------------------------------------
 
-Please feel free to take part into SCAbox project, all kind of contributions are welcomed.
+Please feel free to take part into SCABox project, all kind of contributions are welcomed.
 
 The project aims at gathering a significant number of IP cores, crypto-algorithms and attack models 
 in order to provide an exhaustive view of today's remote SCA threat.
@@ -136,6 +136,6 @@ a very heterogeneous technical stack, it is difficult to maintain the quality wi
 License
 ---------------------------------------------------------------
 
-All the contents of the SCAbox project are licensed under the `MIT license <https://choosealicense.com/licenses/mit/>`_ provided in each GitHub repository.
+All the contents of the SCABox project are licensed under the `MIT license <https://choosealicense.com/licenses/mit/>`_ provided in each GitHub repository.
 
 Copyright (c) 2020 Anonymous

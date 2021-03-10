@@ -1,0 +1,11 @@
+OPTION psf_version = 2.1;
+
+BEGIN driver fifo_and_ctrl
+
+  OPTION supported_peripherals = (fifo_and_ctrl);
+  OPTION driver_state = ACTIVE;
+  OPTION copyfiles = all;
+  OPTION VERSION = 1.0;
+  OPTION NAME = fifo_and_ctrl;
+
+END driver
