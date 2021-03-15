@@ -79,7 +79,7 @@ Use the customization GUI to change the parameters of each IP.
 Documentation
 ===============================================================
 
-The complete documentation of the IP repo is available `here < https://github.com/emse-sas-lab/SCAbox-ip>`_.
+The complete documentation of the IP repo is available `here <https://github.com/emse-sas-lab/SCAbox-ip>`_.
 The project contains both hardware and software parts, 
 therefore this documentation is split into two different websites.
 
